@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/lab3.iml" filepath="$PROJECT_DIR$/lab3.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java projects.iml" filepath="$PROJECT_DIR$/.idea/Java projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab1/Lab1.iml" filepath="$PROJECT_DIR$/Lab1/Lab1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab2/lab2.iml" filepath="$PROJECT_DIR$/lab2/lab2.iml" />
+>>>>>>> 395ae57d81df49eba388eaca2d54b9b50e768bf9
     </modules>
   </component>
 </project>
